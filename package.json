@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "@c4312/chromehash": "^0.3.0",
-    "@jridgewell/gen-mapping": "^0.3.3",
+    "@jridgewell/gen-mapping": "^0.3.8",
     "@jridgewell/trace-mapping": "^0.3.22",
     "@vscode/js-debug-browsers": "^1.1.2",
     "@vscode/l10n": "^0.0.18",
