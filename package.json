@@ -65,7 +65,7 @@
     "dotenv": "^16.4.7",
     "eslint-visitor-keys": "^3.4.3",
     "execa": "^5.1.1",
-    "glob-stream": "^8.0.0",
+    "glob-stream": "^8.0.2",
     "got": "^11.8.6",
     "inversify": "^6.0.2",
     "js-xxhash": "^3.0.1",
