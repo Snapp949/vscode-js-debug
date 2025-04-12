@@ -19,3 +19,4 @@ demos/web-worker/vscode-pwa-cdp.log
 *.cpuprofile
 *.heapsnapshot
 *.heapprofile
+.qodo
